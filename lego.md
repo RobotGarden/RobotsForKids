@@ -1,7 +1,8 @@
 
 # LEGO Robotics Platform
 
-Could use LEGO as a programming platform.
+Using LEGO as a robotics platform for learning.
+
 - [EV3](http://www.lego.com/en-us/mindstorms/about-ev3)
 - NXT
 - Technics
@@ -38,6 +39,30 @@ Could use LEGO as a programming platform.
 - http://legoengineering.com
 - http://www.norcalfll.org/
 - http://www.usfirst.org/roboticsprograms/jr.fll/coach-resources
+- https://diy.org/skills/legomaster
+- http://education.lego.com/en-us/
+- http://www.roboticslearning.com/
+- http://www.damienkee.com/lego-mindstorms-resources/
+- http://www.education.rec.ri.cmu.edu/content/lego/curriculum/
+- https://adventuresofhahnacademy.wordpress.com/2015/03/23/lego-for-learning/
+- http://blogshewrote.org/2014/01/19/benefits-of-using-lego-mindstorms-in-your-homeschool/
+- https://wedo.dreschallenges.com/
+- https://mindstorms.dreschallenges.com/
+- http://dteach.engr.utexas.edu/index.php/curriculum-and-resources/2-uncategorised/22-resources-additional-resources
+- http://extension.oregonstate.edu/washington/4h/sites/default/files/steps_to_starting_a_lego_robotics_program.pdf
+- http://www.citizenschools.org/curriculum/lego-robotics/
+- http://kidsengineer.com/?page_id=106
+- http://stager.org/lego/
+- http://stem.wesfryer.com/home/lego-robotics
+- http://www.firstlegoleague.org/challenge/teamresources
+- https://www.udemy.com/fun-with-beginner-lego-mindstorms-ev3-robotics/
+- http://hackeducation.com/2015/04/10/mindstorms/
+- http://www.fllcasts.com/
+
+### Example Projects
+
+- http://marcoscorner.walther-family.org/2012/10/arduino-and-lego-nxt-is-fun/
+- http://marcoscorner.walther-family.org/2014/11/dexter-the-tablebot/
 
 ### Searches
 
@@ -65,4 +90,35 @@ Could use LEGO as a programming platform.
 - Extreme NXT: Extending the LEGO Mindstorms NXT to the Next Level by Philippe
   Hurbain et al (Nov 2009)
 - First LEGO League by Jonathan Daudelin (Aug 2008)
+
+# FLL
+
+May be helpful to reach out for advice, etc.
+
+## Jr. FLL Teams
+
+|4353  |LegoStars| Dublin |
+|4906  |Jordan Ranch Jr. Robots| Dublin |
+|4344  |Team 201500067 | Livermore |
+|2237  |Master Builders | San Ramon |
+|3421  |Dragons | Fremont |
+
+## FLL Teams
+
+|20710   |Our Savior Lions | Livermore |
+|16220   |EEVEE THREE | Livermore |
+|239     |LEGOSmiths | Livermore |
+|4580    |Waste Warriors | Pleasanton |
+|18658   |Resurge | Dublin |
+|20144   |TechTrek | Dublin |
+|19628   |Eco Trashers | Dublin |
+|10415   |404 Name not found | Dublin |
+
+Other teams in San Ramon, Danville, Fremont, Modesto, Lodi
+
+
+
+
+
+
 
