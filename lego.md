@@ -97,6 +97,8 @@ May be helpful to reach out for advice, etc.
 
 ## Jr. FLL Teams
 
+|Team #  |Team Name | City |
+|--------|----------|------|
 |4353  |LegoStars| Dublin |
 |4906  |Jordan Ranch Jr. Robots| Dublin |
 |4344  |Team 201500067 | Livermore |
@@ -105,6 +107,8 @@ May be helpful to reach out for advice, etc.
 
 ## FLL Teams
 
+|Team #  |Team Name | City |
+|--------|----------|------|
 |20710   |Our Savior Lions | Livermore |
 |16220   |EEVEE THREE | Livermore |
 |239     |LEGOSmiths | Livermore |
