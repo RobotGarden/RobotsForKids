@@ -15,7 +15,7 @@ Make robotics and mechatronics accessible to the widest possible audience.
 
 ---
 For more information about the group:
-- [Robots for Kids wiki](https://github.com/ProgrammingRobotsStudyGroup/RobotsForKids/wiki)
 - [Robot Garden Meetups](http://www.meetup.com/Robot-Garden)
 - [Robotics Free Forum](http://prsg.freeforums.org/index.php)
 - [Robot Garden Robotics Wiki](http://www.robotgarden.org/wiki/robotics/)
+- [Commercial Kits and Curricula](https://github.com/merose/RobotsForKids/kits-and-curricula.md)
