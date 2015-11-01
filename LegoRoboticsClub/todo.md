@@ -14,6 +14,8 @@
     - [ ] meetup announcement
     - [ ] robot garden mailing list announcement
     - [ ] flyer(s) at libraries, schools
+    - [ ] differentiation between LRC and Play-Well
+    - [ ] membership pitch
  - [ ] how to communicate with members and prospective members
     - [ ] investigate system for keeping track of members
     - [ ] investigate distribution list / mailchimp / google group / other
