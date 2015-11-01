@@ -1,7 +1,7 @@
 
 # Club Meeting Agenda
 
-- Welcome
+- Welcome / Introductions
 - Show and Tell / Lightening Talk (10m)
 - Announcements (5m)
 - Weekly Activity (45+)
@@ -10,7 +10,12 @@
 
 ## November
 
-- SAT NOV 7 : What is Robotics / Lego Kits Overview / FLL / Free Play
+- SUN NOV 8
+    - What is Robotics
+    - Introduction to FIRST Lego League
+    - Introduction to RoboGames Events
+    - Introduction to Lego Kits
+    - Free Play
 - SUN NOV 15
 
 ## December
