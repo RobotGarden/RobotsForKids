@@ -1,13 +1,12 @@
 
-# LEGO Robotics Platform
-
-Using LEGO as a robotics platform for learning.
-- [EV3](http://www.lego.com/en-us/mindstorms/about-ev3)
-- NXT
-- Technics
 
 ## Websites
 
+- http://lego.wikia.com/wiki/LEGO_Education
+- http://scratched.gse.harvard.edu/content/274
+- http://www.murrayc.com/permalink/2014/01/24/lego-wedo-with-mits-scratch-simple-robotics-for-kids/
+-  http://wiki.scratch.mit.edu/wiki/LEGO%C2%AE_WeDo%E2%84%A2_Construction_Set
+- http://stemrobotics.cs.pdx.edu/node/2643
 - http://mindstorms.lego.com
 - http://legoeducation.us
 - http://legoengineering.com
@@ -44,5 +43,3 @@ Using LEGO as a robotics platform for learning.
 ### Searches
 
 - [Github Repos](https://github.com/search?utf8=%E2%9C%93&q=lego)
-
-
