@@ -15,8 +15,9 @@ participate, but we may ask for donations at specific events to fund club LEGO
 purchases.
 
 More Information:
-- [Books](books.md)
-- [Challenges](challenges/README.md)
+- [Books](books.md): books to read for more information about projects, extensions, etc.
+- [Challenges](challenges/README.md): ideas for teams, competitions, and challenges we can work toward.
+- [Mindstorms Inventory](inventory.md): overview of Lego platforms and what we have available to the club for use.
 
 ## Meetings
 
@@ -35,4 +36,3 @@ security. By entering the facility or participating in activities at Robot
 Garden, the participant agrees to have their image and or voice recorded by
 Robot Garden, it’s staff, volunteers or other participants and that those
 images may be posted online.
-

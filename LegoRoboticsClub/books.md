@@ -19,4 +19,12 @@
 - Extreme NXT: Extending the LEGO Mindstorms NXT to the Next Level by Philippe
   Hurbain et al (Nov 2009)
 - First LEGO League by Jonathan Daudelin (Aug 2008)
+- Arduino and LEGO Projects by Jon Lazar (Jun 2013)
+- Build Your Own Teams of Robots with LEGO Mindstorms NXT and Bluetooth by
+  Cameron Hughes (Jan 2013)
+- Make: Lego and Arduino Projects by Adam Wolf et al (Nov 2012)
+- Winning LEGO Mindstorms Programming by Mannie Lowe (Nov 2012)
+- The Unofficial LEGO Builder's Guide by Allan Bedford (Oct 2012)
+- Building Robots with LEGO Mindstorms NXT by David Astolfo et al (Jun 2007)
+- Hacking Your LEGO Mindstorms EV3 Kit by John Baichtal (Nov 2015)
 
