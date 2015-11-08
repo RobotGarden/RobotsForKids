@@ -39,7 +39,3 @@
 
 - http://marcoscorner.walther-family.org/2012/10/arduino-and-lego-nxt-is-fun/
 - http://marcoscorner.walther-family.org/2014/11/dexter-the-tablebot/
-
-### Searches
-
-- [Github Repos](https://github.com/search?utf8=%E2%9C%93&q=lego)

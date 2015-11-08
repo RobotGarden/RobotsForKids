@@ -1,6 +1,8 @@
 
 # LEGO Robotics Club
 
+[Facebook Page](https://fb.me/RobotGardenLego)
+
 The LEGO Robotics Club at Robot Garden is for anybody old enough to read.  Fun
 for both kids and parents, we will meet regularly to work on projects and
 activities to learn robotics concepts and skills built on top of the LEGO
@@ -15,9 +17,11 @@ participate, but we may ask for donations at specific events to fund club LEGO
 purchases.
 
 More Information:
-- [Books](books.md): books to read for more information about projects, extensions, etc.
+- [Books](resources/books.md): books to read for more information about projects, extensions, etc.
 - [Challenges](challenges/README.md): ideas for teams, competitions, and challenges we can work toward.
-- [Mindstorms Inventory](inventory.md): overview of Lego platforms and what we have available to the club for use.
+- [Mindstorms Inventory](resources/inventory.md): overview of Lego platforms and what we have available to the club for use.
+
+Send email to lego@robotgarden.org if you have additional questions.
 
 ## Meetings
 
