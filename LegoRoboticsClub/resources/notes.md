@@ -2,6 +2,7 @@
 
 ## Websites
 
+- http://youngbotbuilders.blogspot.com/2011/04/fll-teambuilding-activities.html
 - http://lego.wikia.com/wiki/LEGO_Education
 - http://scratched.gse.harvard.edu/content/274
 - http://www.murrayc.com/permalink/2014/01/24/lego-wedo-with-mits-scratch-simple-robotics-for-kids/
@@ -33,6 +34,8 @@
 - http://www.fllcasts.com/
 - http://www.robotsforkids.com
 - http://www.play-well.org/pleasanton-center.shtml
+- http://www.hightechkids.org/fll-coaching-resources
+- http://code.knodemy.com/knoroboclub/
 
 
 ### Example Projects
